@@ -1,0 +1,25 @@
+html {
+    background: $backgroundColor;
+    font-size: 14px;
+    height: 100%;
+    position: relative;
+}
+
+body {
+    border-top: 8px solid $brownDarken;
+    color: $textColor;
+    font-family: 'Lato';
+    text-align: center;
+}
+
+a {
+    color: $linkColor;
+    text-decoration: none;
+    transition: color .25s ease-in-out;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 { margin: 1em; }

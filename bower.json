@@ -1,0 +1,19 @@
+{
+  "name": "css-architecture-itcss",
+  "version": "0.0.1",
+  "authors": [
+    "Marcelo Ogeda <marcelo.ogeda@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.5.0"
+  }
+}

@@ -1,0 +1,15 @@
+.container {
+    @include center-block();
+    width: 1170px;
+}
+
+.list-social {
+    margin: 10px 0;
+    font-size: 1.5em;
+
+    li {
+        display: inline-block;
+
+        & + li { margin-left: 10px; }
+    }
+}
